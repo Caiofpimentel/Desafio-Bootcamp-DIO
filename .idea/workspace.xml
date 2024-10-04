@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f928dc-bc53-4aaa-9eb9-2d69ea499d8b" name="Changes" comment="" />
+    <list default="true" id="68f928dc-bc53-4aaa-9eb9-2d69ea499d8b" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +15,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Caiofpimentel/Desafio-Bootcamp-DIO.git",
+    "accountId": "b8bb06c9-3bf3-4e97-ae16-13e2c9b95b9c"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -35,6 +49,30 @@
       <option name="presentableId" value="Default" />
       <updated>1728047607752</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1728047721748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728047721748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
