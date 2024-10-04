@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f928dc-bc53-4aaa-9eb9-2d69ea499d8b" name="Changes" comment="Create read me.">
-      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Mentoria.java" afterDir="false" />
+    <list default="true" id="68f928dc-bc53-4aaa-9eb9-2d69ea499d8b" name="Changes" comment="Mentoria e Curso criados.">
+      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728048231326</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mentoria e Curso criados.">
+      <option name="closed" value="true" />
+      <created>1728049375918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728049375918</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +127,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Create read me." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create read me." />
+    <MESSAGE value="Mentoria e Curso criados." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso criados." />
   </component>
 </project>
