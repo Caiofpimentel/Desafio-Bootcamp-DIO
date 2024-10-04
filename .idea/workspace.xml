@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f928dc-bc53-4aaa-9eb9-2d69ea499d8b" name="Changes" comment="Mentoria e Curso criados.">
-      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="68f928dc-bc53-4aaa-9eb9-2d69ea499d8b" name="Changes" comment="Dev e Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/caiopimentel/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728049375918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dev e Bootcamp">
+      <option name="closed" value="true" />
+      <created>1728051938790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728051938790</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +132,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Create read me." />
     <MESSAGE value="Mentoria e Curso criados." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso criados." />
+    <MESSAGE value="Dev e Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev e Bootcamp" />
   </component>
 </project>
